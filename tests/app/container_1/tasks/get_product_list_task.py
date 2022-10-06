@@ -1,4 +1,4 @@
-class GetProductListTask2():
+class GetProductList():
     def __init__(self):
         ...
 
