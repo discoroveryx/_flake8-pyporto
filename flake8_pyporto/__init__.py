@@ -65,6 +65,7 @@ class PyPorto:
         # print(tree)
         
         self.errors = []
+<<<<<<< HEAD
 
         print("self.filename", self.filename)
 
@@ -72,6 +73,15 @@ class PyPorto:
 
         # print(self.tokens)
 
+=======
+        
+        print("self.filename", self.filename)
+        
+        # print("__init__")
+        
+        # print(self.tokens)
+        
+>>>>>>> 90a79c52c47b074f2bd4bc390a617e750417f477
         a = os.path.split(self.filename)
         
         print("a", a)
